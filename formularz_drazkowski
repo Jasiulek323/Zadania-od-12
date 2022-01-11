@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+	<html lang="pl-PL">
+	<html>
+		<head>
+			<h1> Dobór podzespołów do twojego wymarzonego komputera </h1>
+		<meta charset="utf-8">
+<title>Strona tabeli </title>
+</head>
+ <body>
+	<body style="background-color: pink;> 
+<form>
+W jakie gry będziesz grał? <br>
+<br>
+<input type="checkbox" name="Fifa 22" value="Fifa 22"> <input type="checkbox" name="Cyberpunk" value="1">Cyberpunk  <input type="checkbox" name="Forza Horizon 5" value="1">Forza Horizon 5<input type="checkbox" name="Fifa 22" value="Fifa 22">Fifa 22 <br>
+<input type="checkbox" name="Gta V" value="1">Gta V <input type="checkbox" name="Minecraft" value="1">Minecraft <input type="checkbox" name="league of legends" value="1">league of legends<br>
+<br>
+<br>	
+Na jakich ustawieniach będziesz grał?<br>
+<br>
+<input type="radio" name="średnie" value="1">Niskie <input type="radio" name="Średnie" value="1">Średnie <br>
+<input type="radio" name="Wysokie" value="1">Wysokie <input type="radio" name="Epickie" value="1">Epickie <br>
+	<br>
+	<br>
+Podaj budżet <input type="text" name="..."> Zł <br>
+	<br>
+	<br>
+Do jakich zastosowań będziesz potrzebował komputera?
+<input type="checkbox" name="..." value="1">Do zabawy: gry, muzyka, wideo. <br>
+<input type="checkbox" name="..." value="1">Do pisania, składania tekstów, DTP. <br>
+<input type="checkbox" name="..." value="1">Do obliczeń: od arkuszy kalkulacyjnych do inżynierskich i naukowych. <br>
+<input type="checkbox" name="..." value="1">Do przechowywania informacji: od notesów do ogromnych baz danych. <br>
+<input type="checkbox" name="..." value="1">Do grafiki: projektowanie CAD, rysunek i malarstwo, fotografia cyfrowa. <br>
+<br>
+	Dodatkowe informacje: <br>
+<textarea name="Inforamcje" cols="100" rows="35"> </textarea> <br>
+	                      <input type="reset" value="Wyczyść"> <input type="submit" value="Wyślij"> <br>
+</form>
+<A HREF="Jasiu123.html">wróć</A>
+  </body>
+</html>
