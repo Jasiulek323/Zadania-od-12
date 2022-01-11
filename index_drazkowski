@@ -1,0 +1,122 @@
+	<!DOCTYPE html>
+		  <html lang="pl-PL"> 
+				<head>
+					  <meta charset="utf-8">
+					 <title> Jan </title>
+					
+			 </head>
+			  <body>
+				  
+		<body style="background-color:powderblue;">
+	<p align="left"> <font color="red" size="3" face="Arial"> Jan</font> </p> <br>
+	<p align="left"> <font color="green" size="4" face="Arial"> Jan </font> </p> <br>
+	<p align="left"> <font color="purple" size="5" face="Arial"> Jan </font> </p> <br>
+	<p align="left"> <font color="yellow" size="6" face="Arial"> Jan </font> </p> <br>
+	<p align="left"> <font color="blue" size="7" face="Arial"> Jan </font> </p> <br>
+	<p align="left"> <font color="brown" size="8" face="Arial"> Jan </font> </p> <br>
+	<p align="left"> <font color="pink" size="9" face="Arial"> Jan </font> </p> <br>
+	<h1> Drążkowski </h1><br>
+	<h2> Drążkowski </h2><br>
+	<h3> Drążkowski </h3><br>
+	<h4> Drążkowski </h4><br>
+	<h5> Drążkowski </h5><br>
+	<h6> Drążkowski</h6><br>
+	<p align="left"> <font color="yellow" size="3" face="Arial"> :) - Uśmiech, radość</font> </p> <br>
+	<p align="left"> <font color="green" size="3" face="Verdana"> :*) - Płacząca twarz, ukrywanie smutków po przez uśmiech</font> </p> <br>
+	<p align="left"> <font color="brown" size="3" face="Times New Roman"> :/ - Niezadowolenie, smutek</font> </p> <br>
+	<p align="left"> <font color="pink" size="3" face="Courier New"> B) - Zadowolenie z siebie</font> </p> <br>
+	<p align="left"> <font color="purple" size="3" face="Futura"> C: - Wielki uśmiech, ogromna radość</font> </p> <br>
+	<p align="left"> <font color="red" size="3" face="Tahoma"> :P - Pokazanie języka, śmieszkowanie</font> </p> <br>
+	<p align="left"> <font size="5"> <i>80-132</i> <u>Gdańsk Kartuska</u> <strike>121</strike>	 </p> <br>
+	<p align="right"> <font color="yellow" size="12" face="Times New Roman"> Ulubiony aktor: Johnny Sins</font> </p> <br>
+	<p align="center"> <font color="gray" size="7" face="Futura"> <b>Ulubiony zespół muzyczny: Trubadurzy</b> </font> </font>  </p> <br>
+	<p align="center"> <font color="green" size="6" face="Futura"> Data urodzenia: 17 napewno_nie_grudzien </font> </font>  </p> <br>
+	<p align="left"> <font color="black" size="6" face="Arial"> H<sub>2</sub>SO<sub>4</sub> </font> </p> <br>
+	<p align="left"> <font color="black" size="6" face="Arial"> x*x=x<sup>2</sup> </font> </p> <br>
+	<HR SIZE=2 WIDTH=100% ALIGN=LEFT COLOR=red>
+<h1 ALIGN=left >Żart o żabie</h1>
+<IMG SRC="żaba1.gif" ALIGN=lewa BORDER=22 WIDTH=112 HEIGHT=110 ALT=„Grafika1-Jan Drążkowski”>
+<IMG SRC="żaba2.gif" ALIGN=right BORDER=15 WIDTH=105 HEIGHT=117 ALT=„Grafika2-Jan Drążkowski”>
+<FIELDSET> <LEGEND> Śmieszna żaba </LEGEND> Zobaczył słoń żabę:
+
+- O! Znalazł się, Casanova z ptakiem na czole.
+<br>
+- Jakaś ty brzydka, zielona, obślizgła i te wyłupiaste oczy.
+<br>- O! Znalazł się, Casanova z ptakiem na czole. <br>
+<body bgcolor="pink"></body>
+</FIELDSET>
+<HR SIZE=7 WIDTH=50% ALIGN=LEFT COLOR=yellow>
+
+<h2 ALIGN=CENTER >Żart o cegle</h2>
+<IMG SRC="cegla1.gif" ALIGN=lewa BORDER=20 	WIDTH=110 HEIGHT=112 ALT=„Grafika3-Jan Drążkowski”>
+<IMG SRC="cegla	2.gif" ALIGN=right BORDER=13 WIDTH=103	 HEIGHT=103 ALT=„Grafika4-Jan Drążkowski”>
+<FIELDSET> <LEGEND> Cegła do cegły </LEGEND> Przychodzi cegła do cegły a obok siedzi pustak<br>
+<body bgcolor="pink"></body>
+</FIELDSET>
+<HR SIZE=9 WIDTH=60% ALIGN=CENTER COLOR=purple>
+
+<h3 ALIGN=RIGHT >Żart o politykach</h3>
+<IMG SRC="polityk.gif" ALIGN=right BORDER=27 WIDTH=117 HEIGHT=105 ALT=„Grafika5-Jan Drążkowski”>
+<FIELDSET> <LEGEND> Mężczyźni w restauracji </LEGEND> Siedzą 3 osoby<br> <!- Ten żart jest najlepszy!  -> 
+Przy stoliku z 20 ciastkami siedzi poseł, imigrant i robotnik. Poseł zjada 19 ciastek, po czym mówi:
+- Uważaj robotnik, imigrant chce ci zabrać ciastko.<br>
+<br>
+- Nie przyjęli jej.<br>
+<body bgcolor="silver"></body>
+</FIELDSET>
+<HR SIZE=5 WIDTH=40% ALIGN=RIGHT COLOR=red> 
+<br>
+
+Imię ucznia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nazwisko ucznia
+<p>Jan  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drążkowski </p> 
+<br>
+<HR SIZE=5 WIDTH=100% ALIGN=LEFT COLOR=pink>
+<p> &not; &#162; &#165; &laquo; &#169; &#174; &#177;</p>
+<FIELDSET>
+<h1> poniżej są trzy wyliczenia z różnymi znakami wyliczenia</h1>
+<h1> Ty zaproponuj swoje, związane z informatyką</h1>
+Możliwość formatowania tekstu w HTML
+<UL>
+<LI><i>Kursywa:</i>"< i >  < / i >"
+<LI>Indeks<sup>górny:</sup>"< sup >  < / sup >"
+<LI>Indeks<sub>dolny:</sub>"< sub > < / sub >"
+<br>
+	<OL>
+<LI> Urządzenia komputerowe
+<OL type=A>
+<LI> Podzespoły
+<OL type=I>
+<LI> Płyta główna
+<UL TYPE=disc>
+<LI> atx
+<LI> micro-atx
+<LI> e-atx
+</UL>
+
+<LI> Dysk
+<UL type=disc>
+<LI> HDD
+<LI> SSD 
+<LI> M.2
+</UL>
+
+<LI> Chłodzenie
+<UL type=disc>
+<LI> Powietrzne
+<LI> Wodne
+</UL>
+</OL>
+
+<UL TYPE=square>
+<Li> sdsadsad
+</UL>
+</FIELDSET>
+	
+<A HREF="Poczta_Drazkowski.html"> Tutaj jest link do poczty </A> <br>
+<A HREF="Plik_Drazkowski.html"> Tutaj jest link do pliku </A> <br>
+<a Href="#początek_strony">kliknij Aby skoczyć na początek tekstu</a> <br>
+<a Href="#środek_strony">kliknij Aby skoczyć na środek tekstu</a> <br>
+<A HREF="Tabela_Drazkowski.html"> Tutaj jest link do tabeli </A> <br>
+<A HREF="Formularz_Drazkowski.html"> Tutaj jest link do formularza </A> <br>
+<A HREF="Walidator_Drazkowski.html"> LINK do walidacji </A> <br>								  
+
